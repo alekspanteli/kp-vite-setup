@@ -1,0 +1,12 @@
+
+@use "base";
+@use "components";
+@use "layout";
+@use "utilities";
+@use "vendor";
+
+$clr-red: red;
+
+body{
+    background-color: $clr-red;
+}
